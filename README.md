@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/5bdbf5cc-662d-40fe-8352-84eb408dfb92' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/740f7997-0ac2-4273-9739-ac4fd7a03d96' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with QuickTime Player and www.ezgif.com.
 
